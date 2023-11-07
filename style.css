@@ -4,7 +4,7 @@
 	box-sizing: border-box;
 }
 .navigation_bar{
-	background-image: #702843;
+	background-image: ROYALBLUE;
 	position: fixed;
 	top: 0px;
 	left: 0px;
@@ -60,4 +60,35 @@ height: 600px;
 {
 	font-weight: bolder;
 
+}
+.about{
+	background-color: #dae0da;
+	height: 400px;
+}
+.aboutdata
+{
+	margin-top: 25px;
+}
+.cobj
+{
+	font-size: 25px;
+	text-align: justify;
+	text-indent: 20%;
+	color: grey;
+}
+.section_head
+{
+	font-size: 50px;
+	color: royalblue;
+	font-variant: small-caps;
+	font-family: Arial Black;
+}
+.myimg{
+	transition-duration: 1.5s;
+}
+.myimg:hover
+{
+	transform: scale(1.4);
+	border-radius: 50px;
+	box-shadow: 0px 0px 20px royalblue;
 }
