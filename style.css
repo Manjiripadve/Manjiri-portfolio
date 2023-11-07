@@ -4,7 +4,7 @@
 	box-sizing: border-box;
 }
 .navigation_bar{
-	background-image: ROYALBLUE;
+	background-image: grey;
 	position: fixed;
 	top: 0px;
 	left: 0px;
@@ -62,7 +62,7 @@ height: 600px;
 
 }
 .about{
-	background-color: #dae0da;
+	background-color: white;
 	height: 400px;
 }
 .aboutdata
