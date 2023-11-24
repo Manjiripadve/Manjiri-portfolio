@@ -112,10 +112,10 @@ height: 600px;
 	transition-duration: 2s;
 }
 .card:hover{
-	box-shadow: 0 0 30px black;
+	box-shadow: 0 0 40px black;
 }
 .projects{
-	height: 700px;
+	height: 500px;
 }
 .cnt_form{
 	padding: 15px;
